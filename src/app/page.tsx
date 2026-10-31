@@ -68,7 +68,10 @@ uv sync --locked --python 3.12`}
       </section>
 
       <footer className="mt-20 text-sm text-neutral-500">
-        © suenot
+        ©{" "}
+        <a href="https://suenot.com" className="underline underline-offset-4">
+          suenot.com
+        </a>
       </footer>
     </main>
   );
