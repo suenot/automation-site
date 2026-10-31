@@ -50,10 +50,10 @@ export const tools: Tool[] = [
       "Publishes one local video and its exact caption from a bound Threads profile.",
   },
   {
-    name: "x-posting-automation",
+    name: "x-automation",
     platform: "X",
     cli: "x-publish",
-    repo: gh("x-posting-automation"),
+    repo: gh("x-automation"),
     summary:
       "Reusable X video publisher with the same account, metadata and journal contract as the other tools.",
   },
